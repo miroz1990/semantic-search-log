@@ -1,0 +1,49 @@
+Deleting block file path
+PacketResponder block Exception millis timeout while waiting for channel to be ready read. ch [connected local=path remote=path]
+BLOCK Removing block from neededReplications as it does not belong to any file.
+Receiving empty packet for block
+BLOCK path block
+PacketResponder for block terminating
+Adding an already existing block
+ip Exception writing block to mirror
+writeBlock block received exception Interruped while waiting for IO on channel [connected local=path remote=path]. millis timeout left.
+PacketResponder block Exception Connection reset by peer
+writeBlock block received exception
+Exception in receiveBlock for block Interruped while waiting IO on channel [connected local=path remote=path]. millis timeout left.
+Received block source path destination of size
+writeBlock block received exception Connection reset by peer
+PendingReplicationMonitor timed out block
+writeBlock block received exception millis timeout while waiting for channel to be ready read. ch [connected local=path remote=path]
+BLOCK ask ip to replicate block datanode(s)
+ip Got exception while serving block to path
+Received block of size from path
+BLOCK blockMap updated ip is added to block size
+ip Served block to path
+PacketResponder block Exception
+PacketResponder for block Interrupted.
+ip Failed to transfer block got Connection reset by peer
+writeBlock block received exception Broken pipe
+Reopen Block block
+Receiving block source path destination
+ip Starting thread to transfer block ip,
+BLOCK Redundant addStoredBlock request received for block on ip size
+writeBlock block received exception millis timeout while waiting for channel to be ready write. ch [connected local=path remote=path]
+Exception in receiveBlock for block Broken pipe
+writeBlock block received exception Block is valid, and cannot be written to.
+PacketResponder block Exception The stream is closed
+Exception in receiveBlock for block millis timeout while waiting channel to be ready write. ch [connected local=path remote=path]
+Changing block file offset of from to meta
+writeBlock block received exception No route to host
+BLOCK addStoredBlock request received for block on ip size But it does not belong to any file.
+writeBlock block received exception Could not read from stream
+PacketResponder block Exception Broken pipe
+PacketResponder block Exception Interruped while waiting for IO on channel [connected local=path remote=path]. millis timeout left.
+ip Transmitted block to path
+Unexpected error trying to delete block block. BlockInfo not found in volumeMap.
+Verification succeeded for block
+writeBlock block received exception Interrupted receiveBlock
+ip Starting thread to transfer block
+BLOCK block is added to invalidSet of ip
+PacketResponder block Exception Interruped while waiting for IO on channel [closed]. millis timeout left.
+Exception in receiveBlock for block
+Exception in receiveBlock for block Connection reset by peer

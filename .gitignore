@@ -1,0 +1,10 @@
+*.zip
+*.tar.gz
+*.log
+.vscode/
+**/__pycache__/
+.DS_Store
+*.log
+*.tar.gz
+*.faiss
+*.pkl

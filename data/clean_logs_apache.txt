@@ -1,0 +1,36 @@
+error env createbean2 factory error creating worker jni onstartup worker jni onstartup
+notice jk2_init found child <NUM> in scoreboard slot <NUM>
+notice ldap built with openldap ldap sdk
+error config update can t create worker jni onstartup
+error env createbean2 factory error creating worker jni onshutdown worker jni onshutdown
+error config update can t create vm
+error request failed error reading the headers
+error file does not exist <PATH>
+error attempt to serve directory <PATH>
+error urimap mapuri uri must start with
+error directory index forbidden by rule <PATH>
+notice mod_python creating <NUM> session mutexes based on <NUM> max processes and <NUM> max threads
+notice digest generating secret for digest authentication
+error invalid uri in request get http <PATH>
+error config update can t create channel jni
+error mod_jk child init <NUM>
+error invalid method in request get <PATH>
+error attempt to invoke directory as script <PATH>
+warn child process <NUM> still did not exit sending a sigterm
+notice workerenv init ok <PATH>
+error config update can t create worker jni onshutdown
+error script not found or unable to stat <PATH>
+notice digest done
+notice mod_jk2 shutting down
+notice graceful restart requested doing restart
+error mod_jk child workerenv in error state <NUM>
+notice apache <PATH> fedora configured resuming normal operations
+error request failed uri too long longer than <NUM>
+notice ldap ssl support unavailable
+error mod_security access denied with code <NUM> error reading post data error_code <NUM> hostname <IP> uri <PATH>
+notice suexec mechanism enabled wrapper <PATH>
+error jk2_init can t find child <NUM> in scoreboard
+error client sent http <PATH> request without hostname see rfc2616 section <NUM>
+notice mod_security <PATH> configured
+error env createbean2 factory error creating vm
+error env createbean2 factory error creating channel jni channel jni

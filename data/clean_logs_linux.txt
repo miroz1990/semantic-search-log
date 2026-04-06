@@ -1,0 +1,984 @@
+spamassassin spamd startup succeeded
+anacron anacron startup succeeded
+kernel proc_dointvec
+kernel usbcore registered new driver hid
+su pam_unix session opened for user news by uid
+gdm pam_unix check pass user unknown
+kernel bluetooth hci device and connection manager initialized
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost alfahost nl
+kernel __print_symbol
+kernel audit avc denied syslog_mod for pid exe sbin klogd scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass system
+ftpd connection from at wed jul
+kernel audit avc denied search for pid exe usr sbin rpc idmapd name rpc dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_rpc_t tclass dir
+ftpd connection from at tue jul
+network bringing up interface succeeded
+ftpd connection from at wed jan
+kernel audit avc denied relabelto for pid exe sbin restorecon name dev ino scontext system_u system_r kernel_t tcontext system_u object_r tty_device_t tclass chr_file
+kernel audit item name proc stat inode dev
+kernel audit avc denied read for pid exe sbin name stat dev ino scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass file
+gpm info client c
+xinetd warning can t get client address connection reset by peer
+ftpd anonymous ftp login from anonymous
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail net
+ftpd connection from at mon jun
+kernel detected mhz processor
+kernel audit avc denied write for pid exe usr bin rhgb client name rhgb socket dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass sock_file
+kernel audit avc denied setattr for pid exe usr bin rhgb name rhgb socket dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass sock_file
+kernel audit avc denied read for pid exe usr sbin kudzu name parport dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_dev_t tclass dir
+kernel audit avc denied getattr for pid exe usr sbin squid path initrd dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+kernel md md driver max_md_devs md_sb_disks
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ridsdale plus com
+ftpd connection from adsl static ebtnet net at tue aug
+ftpd connection from at fri feb
+xinetd xinetd shutdown succeeded
+kernel audit avc denied syslog_read for pid exe bin dmesg scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass system
+nfslock rpc statd shutdown failed
+sshd pam_unix check pass user unknown
+snmpd snmpd shutdown succeeded
+kernel unmap_region hex
+kernel audit avc denied name_bind for pid exe usr bin xorg scontext system_u system_r kernel_t tcontext system_u object_r xserver_port_t tclass tcp_socket
+kernel highmem zone pages lifo batch
+kernel find_or_create_page
+kernel built zonelists
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl info com ph user root
+ftpd connection from at thu jan
+shutdown shutting down for system reboot
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost www lssu edu user test
+smartd smartd is exiting exit status
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost gtconnect net user root
+readahead starting background readahead
+kernel audit item name proc exe inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost sugolan hu
+ftpd connection from t ipconnect de at fri jan
+ftpd connection from ip evc net at sat aug
+kernel printk messages suppressed
+ftpd connection from dsl in addr zen co uk at sun jul
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ip fastwebnet it user root
+kernel zapping low mappings
+ftpd connection from ip evhr net at tue sep
+privoxy jan privoxy info loading configuration file etc privoxy config
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost metrored net mx user test
+ntpd precision usec
+ftpd connection from at wed feb
+kernel total hugetlb memory allocated
+kernel ip_tables c netfilter core team
+ftpd connection from interbusiness it at tue aug
+sshd pam_unix more authentication failure logname uid euid tty nodevssh ruser rhost cable canals ro user root
+kernel using tsc for high res timesource
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cable wanadoo nl user root
+xfs terminating
+ftpd connection from dip t dialin net at tue nov
+kernel audit avc denied name_bind for pid exe sbin portmap scontext system_u system_r kernel_t tcontext system_u object_r portmap_port_t tclass udp_socket
+ftpd connection from p pppool de at thu feb
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cs bowiestate edu
+klogind authentication failed from permission denied in replay cache code
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r amandaidx_port_t tclass tcp_socket
+kernel audit avc denied write for pid exe sbin initlog name log dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass sock_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost itsc iasi astral ro
+ftpd connection from res cmts sm ptd net at wed feb
+snmpd received term or stop signal shutting down
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost www etsin upm es user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ctinets com
+kernel vt_console_print hex
+kernel out of memory killed process updatedb
+kernel audit avc denied name_bind for pid exe usr sbin snmpd scontext system_u system_r kernel_t tcontext system_u object_r snmp_port_t tclass udp_socket
+kernel md autorun done
+kernel sys_rt_sigaction
+kernel usbcore registered new driver hiddev
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r ftp_port_t tclass tcp_socket
+kernel audit avc denied remove_name for pid exe usr bin rhgb name rhgb socket dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+kernel ide floppy driver newide
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost vedgi gw rosprint net
+kernel mapped trampoline to
+xfs xfs startup succeeded
+kernel audit avc denied getattr for pid exe sbin init path dev initctl dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass fifo_file
+kernel freeing unused kernel memory freed
+sshd pam_unix more authentication failure logname uid euid tty nodevssh ruser rhost user test
+ftpd connection from dsl telesp net br at thu sep
+kernel selinux initialized dev type mqueue not configured for labeling
+ftpd connection from alpura com at sun feb
+kernel audit item name sys inode dev
+kernel usbcore registered new driver usbfs
+ftpd connection from cable canals ro at sun oct
+kernel selinux initialized dev type rpc_pipefs uses genfs_contexts
+kernel uhci_hcd irq io base
+kernel audit avc denied read for pid exe usr sbin rpc idmapd name nfs dev ino scontext system_u system_r kernel_t tcontext system_u object_r rpc_pipefs_t tclass dir
+named loading configuration from etc named conf
+snmpd net snmp version
+kernel sys_setuid hex
+kernel audit avc denied relabelfrom for pid exe sbin restorecon name control dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass chr_file
+kernel audit avc denied compute_user for pid exe bin su scontext system_u system_r kernel_t tcontext system_u object_r security_t tclass security
+kernel selinux initialized dev type rootfs uses genfs_contexts
+kernel adding swap on dev priority extents
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dsl pacbell net user root
+ftpd getpeername ftpd transport endpoint is not connected
+kernel selinux registering netfilter hooks
+sendmail sendmail shutdown failed
+kernel intel machine check reporting enabled on cpu
+bluetooth hcid startup succeeded
+mdmpd mdmpd failed
+kernel audit avc denied getattr for pid exe usr sbin rpc idmapd path var lib nfs rpc_pipefs nfs dev ino scontext system_u system_r kernel_t tcontext system_u object_r rpc_pipefs_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost zummit com
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail ntsec gov tw
+kernel audit avc denied create for pid exe usr bin xorg name log scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass file
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r rlogin_port_t tclass tcp_socket
+kernel bm dma at hex bios settings hdc dma hdd pio
+apmd exiting
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost f nas tiscali de user root
+kernel bluetooth ver
+login pam_unix more authentication failures logname login uid euid tty ruser rhost user root
+kernel audit enabled after initialization
+ftpd connection from at mon jul
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user guest
+kernel vfs mounted root filesystem
+kernel uniform cd rom driver revision
+kernel do_page_fault hex
+ftpd anonymous ftp login from rev gaoland net anonymous
+ftpd connection from t ipconnect de at fri oct
+kernel follow_page hex
+ftpd user unknown timed out after seconds at sun aug
+kernel vm killing process sendmail
+ftpd connection from at mon oct
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost rev krline net
+kernel ich chipset revision
+login pam_unix session opened for user root by login uid
+kernel ramdisk compressed image found at block
+ftpd connection from klik bydgoszcz pl at fri aug
+kernel memory available kernel code reserved data init highmem
+kernel failure registering capabilities with the kernel
+ntpd ntpd exiting on signal
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost teleson ro
+ftpd connection from adsl alicedsl de at mon nov
+kernel usbcore registered new driver hub
+gdm pam_unix authentication failure logname uid euid tty ruser rhost
+ftpd connection from at sat jan
+kernel audit item name sys devices bnumconfigurations inode dev
+ftpd connection from ark dbstream co jp at sat aug
+ftpd connection from fln virtua com br at sun aug
+ftpd setsockopt ip_tos operation not supported
+kernel audit avc denied create for pid exe sbin nash name control scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass chr_file
+hcid hci daemon ver started
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail plan ru user root
+named using cpu
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost fbx proxad net
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost wsip lv lv cox net user test
+kernel pci using configuration type
+ftpd connection from at tue aug
+su pam_unix session opened for user test by root uid
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user cable mindspring com
+kernel initializing cpu
+messagebus messagebus term succeeded
+kernel schedule
+ftpd connection from ded tie cl at mon jan
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost rrcs central biz rr com
+kernel dput
+smartd device dev hda is smart capable adding to monitor list
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost wef hebiace edu cn user test
+sshd pam_unix service sshd ignoring max retries
+kernel cdrom open failed
+kernel audit avc denied getattr for pid exe sbin minilogd path dev log dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass sock_file
+kernel bluetooth core ver
+kernel audit initializing netlink socket disabled
+kernel audit item name initrd log inode dev
+kernel audit avc denied unlink for pid exe usr bin rhgb name log dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass file
+kernel dma zone pages lifo batch
+kernel device mapper ioctl initialised dm uk sistina com
+gpm info mice c
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cable canals ro user test
+xinetd bind failed address already in use errno service telnet
+ftpd connection from dslb pools arcor ip net at mon nov
+ftpd connection from ded tie cl at thu jan
+pam rootok pam_check_access failed user does not have proper access system_u system_r kernel_t
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost customer uninet ide com mx user fax
+ftpd connection from dip t dialin net at sun aug
+su pam_unix session closed for user htt
+kernel audit avc denied name_bind for pid exe usr sbin ntpd scontext system_u system_r kernel_t tcontext system_u object_r ntp_port_t tclass udp_socket
+kernel microcode no suitable data for cpu
+kernel audit avc denied read for pid exe usr sbin kudzu name autoprobe dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_dev_t tclass file
+sysctl net conf default rp_filter
+named named shutdown failed
+kernel ia microcode update driver tigran veritas com
+kernel calibrating delay loop bogomips
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ftc fullerproperties com user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl est estpak ee user root
+named shutting down
+ftpd connection from at tue jan
+cannaserver irw_killserver cannaserver end
+ftpd connection from sh interxion inode at at sun jul
+kernel serio aux port at irq
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl nh sparqnet net
+kernel selinux initialized dev type eventpollfs uses genfs_contexts
+xinetd started working available services
+ftpd user unknown timed out after seconds at sat aug
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dialup mum mtnl net in user test
+kernel pci found irq for device
+kernel audit syscall exit ff items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+rsyncd rsync connection unexpectedly closed bytes read so far
+ftpd connection from at wed aug
+kernel swapin_readahead
+kernel unmap_vma_list hex
+telnetd ttloop read connection timed out
+ftpd connection from ayaha hs unet ocn ne jp at fri nov
+ntpd frequency initialized ppm from var lib ntp drift
+ftpd connection from mail net star com tw at mon jun
+kernel call_console_drivers hex
+kernel audit item name var gdm gdmfifo inode dev
+kernel dentry cache hash table entries order bytes
+ftpd connection from topspot net at sun jul
+kernel kernel logging proc stopped
+gpm gpm shutdown succeeded
+kernel out of memory killed process httpd
+xinetd service telnet failed to start and is deactivated
+kernel bios provided physical ram map
+kernel audit avc denied name_bind for pid exe usr sbin cupsd scontext system_u system_r kernel_t tcontext system_u object_r ipp_port_t tclass tcp_socket
+kernel __getblk
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl ttn net user test
+smartd smartd version copyright c bruce allen
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost red staticip rima tde net user root
+login pam_unix authentication failure logname login uid euid tty ruser rhost
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost netvigator com user root
+ftpd connection from at fri jul
+ftpd connection from at thu sep
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost secure vision xxl com
+kernel audit syscall exit items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+kernel audit avc denied read write for pid exe usr lib vte gnome pty helper name dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass chr_file
+kernel audit avc denied name_bind for pid exe usr bin perl scontext system_u system_r kernel_t tcontext system_u object_r spamd_port_t tclass tcp_socket
+kernel pci pci bios revision entry at hex last bus
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ap plala or jp user root
+cups cupsd startup succeeded
+kernel audit initialized
+kernel bluetooth rfcomm tty layer initialized
+privoxy jun privoxy info loading configuration file etc privoxy config
+gpm started gpm successfully entered daemon mode
+sysctl kernel core_uses_pid
+kernel selinux initialized dev type uses xattr
+kernel selinux disabled at runtime
+kernel audit item name proc bus usb devices inode dev
+kernel audit item name etc mtab inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost c il comcast net user root
+kernel get_user_size
+named couldn t add command channel not found
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ns cs net cz
+gdm binary couldn t authenticate user
+kernel do_rw_proc
+kernel checking if image is initramfs it isn t no cpio magic looks like an initrd
+kernel audit item name udev device mapper inode dev
+kernel acpi subsystem revision
+kernel fs mounted filesystem with ordered data mode
+kernel audit avc denied getattr for pid exe bin grep path proc bus usb devices dev ino scontext system_u system_r kernel_t tcontext system_u object_r usbdevfs_t tclass file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl speedlinq nl user root
+messagebus messagebus shutdown failed
+kernel out of memory killed process mysqld
+rpc statd caught signal un registering and exiting
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost chem ncsu edu user ftp
+sendmail sm client startup succeeded
+kernel you can enable it with acpi force
+kernel vfs disk quotas
+ftpd connection from host stsk macomnet net at mon jun
+rpcidmapd rpc idmapd startup succeeded
+squid squid parent child process exited with status
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost kulab cpc ku ac th user amanda
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cable canals ro user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost wsip lv lv cox net
+kernel dquot cache hash table entries order bytes
+kernel audit item name dev log inode dev
+kernel audit avc denied relabelfrom for pid exe sbin restorecon name dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass blk_file
+kernel linux agpgart interface c dave jones
+ftpd connection from at wed oct
+syslog syslogd startup succeeded
+kernel call trace
+kernel audit avc denied transition for pid exe usr sbin sshd path bin bash dev ino scontext system_u system_r kernel_t tcontext root sysadm_r sysadm_t tclass process
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ip ip secureserver net
+kernel audit avc denied getattr for pid exe bin bash path dev mapper control dev ino scontext system_u system_r kernel_t tcontext system_u object_r lvm_control_t tclass chr_file
+kernel audit avc denied name_bind for pid exe usr sbin snmpd scontext system_u system_r kernel_t tcontext system_u object_r snmp_port_t tclass tcp_socket
+kernel audit syscall exit ffffffff items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+ftpd connection from ipd brasiltelecom net br at wed jan
+kernel audit avc denied siginh for pid exe bin bash scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass process
+kernel audit item name proc sys dev parport autoprobe inode dev
+nfslock rpc statd shutdown succeeded
+kernel pid hash table entries order bytes
+ftpd connection from user cable mindspring com at wed oct
+kernel selinux initialized dev type tmpfs uses transition sids
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost customer algx net
+kernel audit avc denied write for pid exe bin su name exec dev ino scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass file
+kernel out of memory killed process prelink
+kernel audit avc denied compute_av for pid exe bin su scontext system_u system_r kernel_t tcontext system_u object_r security_t tclass security
+kernel linux version bhcompile bugs build redhat com gcc version red hat linux sat may edt
+kernel audit avc denied getattr for pid exe usr lib cups backend parallel path proc sys dev parport autoprobe dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_dev_t tclass file
+kernel initializing ipsec netlink socket
+ftpd connection from aste genev bois abo wanadoo fr at sun sep
+named notify question section contains no soa
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost maior teleson ro user info
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user nobody
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user root
+privoxy privoxy shutdown succeeded
+ntpd kernel time sync status
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost host kiosk ws user root
+ftpd connection from adsl dsl pacbell net at mon jul
+kernel audit avc denied create for pid exe usr bin gdm binary name gdmfifo scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass fifo_file
+kernel cpu i cache d cache
+named running
+xfs xfs shutdown succeeded
+ftpd connection from merton whererwerunning com at sat nov
+kernel acct_process
+kernel audit avc denied transition for pid exe bin su path bin bash dev ino scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass process
+ftpd connection from at mon nov
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost co f kgex com tw user root
+ftpd connection from t ipconnect de at sun nov
+ntpd ntpd r thu mar est
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost alternativadigital inext net mx user test
+kernel audit avc denied name_bind for pid exe usr sbin sshd scontext system_u system_r kernel_t tcontext system_u object_r ssh_port_t tclass tcp_socket
+kernel audit avc denied search for pid exe usr sbin rpc idmapd dev ino scontext system_u system_r kernel_t tcontext system_u object_r rpc_pipefs_t tclass dir
+kernel audit avc denied read for pid exe sbin udev name device mapper dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysfs_t tclass dir
+messagebus messagebus startup succeeded
+spamassassin spamd shutdown succeeded
+kernel generic_file_aio_write_nolock
+kernel audit item name proc bus usb inode dev
+kernel audit avc denied name_bind for pid exe usr sbin sendmail sendmail scontext system_u system_r kernel_t tcontext system_u object_r smtp_port_t tclass tcp_socket
+kernel bluetooth socket layer initialized
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost nous soft net user root
+kernel audit item name dev pts inode dev
+kernel audit avc denied relabelfrom for pid exe usr sbin sshd name dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass chr_file
+kernel spurious interrupt
+kernel bluetooth rfcomm socket layer initialized
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost abx adsl cwjamaica com
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r printer_port_t tclass tcp_socket
+apmd version apm bios linux driver
+kernel scsi subsystem initialized
+kernel audit item name udev inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost easystreet com
+udev creating device node udev
+kernel audit avc denied create for pid exe usr bin rhgb name rhgb socket scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass sock_file
+kernel selinux initialized dev type sysfs uses genfs_contexts
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost nw nuvox net user root
+ntpd kernel time sync enabled
+kernel initializing cryptographic api
+init switching to runlevel
+ftpd connection from sym gdsz cncnet net at thu oct
+rlogind connection from on illegal port
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl speakeasy net
+ftpd connection from mx dyn com ar at fri feb
+klogind authentication failed from cable canals ro software caused connection abort
+snmpd received snmp packet s from
+kernel pc style at pcspp tristate epp
+ftpd connection from bdsl gte net at fri nov
+sshd pam_unix more authentication failure logname uid euid tty nodevssh ruser rhost bozesan teleson ro user test
+kernel audit avc denied getattr for pid exe bin bash path sys devices bnumconfigurations dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysfs_t tclass file
+kernel donald becker and others www scyld com network vortex html
+privoxy sep privoxy info loading configuration file etc privoxy config
+kernel audit avc denied read for pid exe usr sbin kudzu name dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysfs_t tclass lnk_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost program com tw
+ftpd connection from at thu feb
+ftpd connection from cable canals ro at sat oct
+ftpd connection from ip evc net at sun aug
+kernel hdc samsung cd rom sn atapi cd dvd rom drive
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost bozesan teleson ro user test
+kernel out of memory killed process htt_server
+smartd configuration file etc smartd conf parsed
+smartd monitoring ata and scsi devices
+xinetd exiting
+named listening on interface lo
+kernel audit avc denied read for pid exe bin grep name devices dev ino scontext system_u system_r kernel_t tcontext system_u object_r usbdevfs_t tclass file
+ftpd connection from tisdip tiscali de at fri oct
+kernel out of memory killed process jserver
+ftpd connection from at mon sep
+klogind kerberos authentication failed
+kernel handle_mm_fault
+ftpd connection from ipd brasiltelecom net br at thu nov
+kernel apm bios version flags driver version
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r tftp_port_t tclass udp_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user webmaster
+ntpd ntpd startup succeeded
+xinetd xinetd version started with libwrap loadavg options compiled in
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost troi bluesky technologies com user root
+kernel audit avc denied search for pid exe sbin ifconfig name net dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_net_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost c fl comcast net user root
+kernel pci_hotplug pci hot plug pci core version
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ip ip secureserver net user root
+kernel audit item name sys bus pci devices resource inode dev
+kernel fs info recovery required on readonly filesystem
+crond crond shutdown succeeded
+kernel selinux initialized dev type futexfs uses genfs_contexts
+kernel audit avc denied ioctl for pid exe usr lib vte gnome pty helper path dev pts dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass chr_file
+kernel intel machine check architecture supported
+syslog klogd shutdown succeeded
+httpd httpd startup succeeded
+smartd opened configuration file etc smartd conf
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost lneuilly abo wanadoo fr user root
+kernel audit item name proc net rpc idtoname channel
+kernel selinux initialized dev type proc uses genfs_contexts
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost csnsu nsuok edu user root
+ftpd connection from aste genev bois abo wanadoo fr at mon nov
+kernel audit item name initrd inode dev
+kernel net registered protocol family
+su pam_unix session closed for user cyrus
+kernel at on irq
+kernel uniform multi platform e ide driver revision
+kernel audit avc denied name_bind for pid exe sbin portmap scontext system_u system_r kernel_t tcontext system_u object_r portmap_port_t tclass tcp_socket
+ftpd connection from at fri jun
+kernel free_pgtables
+kernel serio kbd port at irq
+portmap portmap shutdown failed
+gpm connecting at fd
+kernel tcp hash tables configured established bind
+kernel out of memory killed process mrtg
+kernel mempool_alloc
+ftpd connection from host apid com at mon aug
+kernel isapnp scanning for pnp cards
+kernel bm dma at hex bios settings hda dma hdb pio
+login pam_unix session closed for user root
+kernel out of memory killed process rpmq
+kernel audit avc denied rlimitinh for pid exe bin bash scontext system_u system_r kernel_t tcontext root sysadm_r sysadm_t tclass process
+kernel security users roles types bools
+mysqld stopping mysql succeeded
+su pam_unix session closed for user test
+kernel audit avc denied search for pid exe sbin name dev ino scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost unet ocn ne jp
+kernel recalc_task_prio
+nfslock rpc statd startup succeeded
+udev removing device node udev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost julia arkos de user test
+su pam_unix session opened for user htt by uid
+kernel fs write access will be enabled during recovery
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ned gcdtech com user root
+kernel agpgart detected dedicated video ram
+kernel __call_console_drivers
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost llekm static vsnl net in
+kernel agpgart detected an intel e chipset
+ftpd user unknown timed out after seconds at mon feb
+telnetd ttloop peer died invalid or incomplete multibyte or wide character
+ftpd connection from dsl chn static touchtelindia net at sun jul
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost test mtc ntnu edu tw
+kernel audit avc denied rlimitinh for pid exe bin bash scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass process
+in rexecd connect from cable canals ro
+kernel linux plug and play support c adam belay
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail varpalota hu user root
+ftpd connection from at thu jul
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost xdsl wroclaw dialog net pl user test
+kernel hda drive not ready for command
+kernel audit avc denied getattr for pid exe usr bin readlink path sys dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysfs_t tclass dir
+kernel acpi acpi tables contain no pci irq routing entries
+ftpd connection from interbusiness it at sun aug
+ftpd connection from tampabay res rr com at mon jun
+kernel hda dma timeout retry
+kernel out of memory killed process xfs
+ftpd connection from at mon jan
+ftpd user unknown timed out after seconds at sat jun
+kernel dmi present
+kernel input imps logitech wheel mouse on
+ftpd connection from at thu aug
+named exiting
+kernel usb universal host controller interface driver
+apmd apmd startup succeeded
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost pa comcast net user webmaster
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ridsdale plus com user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dhcp ftwo tx charter com user root
+kernel audit avc denied unlink for pid exe sbin udev name dev ino scontext system_u system_r kernel_t tcontext system_u object_r tty_device_t tclass chr_file
+rc starting pcmcia succeeded
+kernel at i o irq is a
+squid stopping squid
+login failed login from null for nf authentication failure
+sshd pam_unix session opened for user root by uid
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail apcosoft net user root
+sshd pam_unix session closed for user test
+kernel __wake_up_common
+kernel show_trace
+last message repeated times
+kernel floppy drive s is
+kernel audit avc denied setexec for pid exe bin su scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass process
+freewnn jserver shutdown failed
+kernel audit item name proc sys kernel hotplug inode dev
+kernel highmem available
+ftpd connection from mx dyn com ar at sat feb
+ntpd configure keyword authenticate unknown line ignored
+ftpd connection from alyon abo wanadoo fr at mon sep
+ftpd connection from adsl skynet be at wed feb
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost under kaist ac kr
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost customer reverse entry user test
+kernel hub usb hub found
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cobalt com user root
+kernel audit item name dev ptmx inode dev
+kernel audit avc denied execute for pid path dev mem dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass chr_file
+sysctl kernel sysrq
+ftpd connection from at tue sep
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost
+kernel __wake_up hex
+kernel selinux initialized dev type usbdevfs uses genfs_contexts
+gpm request on console
+kernel selinux initialized dev type devpts uses transition sids
+smartd smartd startup succeeded
+smartd smartd shutdown succeeded
+kernel audit avc denied setattr for pid exe usr bin gdm binary name gdmfifo dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass fifo_file
+sdpd sdpd started
+kernel hdc atapi cd rom drive cache
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r inetd_port_t tclass tcp_socket
+named listening on interface
+kernel selinux initialized dev type pipefs uses task sids
+kernel d_instantiate
+kernel bios reserved
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost direcpc com user root
+kernel cpu irqstacks hard soft
+kernel selinux initialized dev type usbfs uses genfs_contexts
+su pam_unix session closed for user news
+kernel audit avc denied relabelto for pid exe sbin restorecon name control dev ino scontext system_u system_r kernel_t tcontext system_u object_r lvm_control_t tclass chr_file
+xinetd file descriptor of service comsat has been closed
+kernel out of memory killed process dbus daemon
+ftpd connection from at sat feb
+kernel pci using irq router piix ich at
+kernel audit avc denied syslog_console for pid exe bin dmesg scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass system
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost tbcn telia com user root
+freewnn jserver shutdown succeeded
+kernel audit syscall exit fefbbebe items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+kernel drivers usb input hid core c usb hid core driver
+syslog klogd startup succeeded
+rsyncd rsync error error in rsync protocol data stream code at io c
+random initializing random number generator succeeded
+kernel using polling
+kernel selinux starting in permissive mode
+kernel checking hlt instruction ok
+ftpd connection from at wed dec
+kernel hda ibm dtla ata disk drive
+autofs automount startup succeeded
+ftpd connection from interbusiness it at thu sep
+named named shutdown succeeded
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl lpoy dnainternet fi
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user amanda
+kernel audit item name proc self attr exec inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost c nj comcast net
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost connect borran com user adm
+kernel ich ide controller at pci slot
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost interbusiness it user root
+exiting on signal
+ftpd connection from at sun jun
+kernel acpi interpreter disabled
+apmd charge unknown
+smartd smartd has fork ed into background mode new pid
+iiim htt startup succeeded
+kernel audit item name sys class misc device mapper inode dev
+kernel sendmail page allocation failure order mode
+kernel ramdisk driver initialized ram disks of size blocksize
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost nttu edu tw user root
+ftpd connection from dslb pools arcor ip net at sat nov
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost e brasiltelecom net br user root
+kernel over tunneling driver
+kernel audit avc denied getattr for pid exe sbin sysctl path proc sys kernel hotplug dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_hotplug_t tclass file
+kernel kernel log daemon terminating
+kernel check_free_space
+kernel audit avc denied relabelto for pid exe usr sbin sshd name dev ino scontext system_u system_r kernel_t tcontext root object_r devpts_t tclass chr_file
+cups lpd connection from cable canals ro
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dimenoc com user root
+kernel enabling fast fpu save and restore done
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost saransk ru
+kernel input at translated set keyboard on
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost webtal com br
+kernel rw_vm
+snmpd smux_accept accepted fd from
+kernel audit avc denied write for pid exe sbin sysctl name modprobe dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_modprobe_t tclass file
+kernel audit item name dev mapper control inode dev
+privoxy privoxy startup succeeded
+kernel ip routing cache hash table of buckets
+sendmail sm client shutdown succeeded
+su pam_unix session opened for user cyrus by uid
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dms geos ntnu edu tw
+kernel do_irq
+kernel transparent bridge
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost c ca comcast net user root
+kernel out of memory killed process sort
+kernel md autorun
+ftpd connection from getnet net at wed jan
+random saving random seed succeeded
+kernel process syslogd is using obsolete setsockopt so_bsdcompat
+kernel clear_page_tables
+kernel inode cache hash table entries order bytes
+ftpd connection from nagano ocn ne jp at mon jan
+kernel audit avc denied name_bind for pid exe usr sbin named scontext system_u system_r kernel_t tcontext system_u object_r dns_port_t tclass udp_socket
+kernel do_proc_dointvec_conv hex
+kernel audit avc denied relabelto for pid exe sbin restorecon name ld so cache dev ino scontext system_u system_r kernel_t tcontext system_u object_r ld_so_cache_t tclass file
+network bringing up loopback interface succeeded
+kernel invalidate_inode_buffers
+sshd warning could not relabel with system_u object_r devpts_t not relabeling
+kernel audit avc denied create for pid exe sbin minilogd name log scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass sock_file
+kernel audit avc denied ioctl for pid exe usr sbin hcid path socket dev ino scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost stat atlanet it
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost r sakura ne jp user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost fparas securepathways com
+ftpd connection from at fri dec
+kernel audit avc denied setattr for pid exe usr sbin sshd name dev ino scontext system_u system_r kernel_t tcontext root object_r devpts_t tclass chr_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost vf shawcable net
+kernel page_cache_read
+kernel audit avc denied name_bind for pid exe usr sbin cupsd scontext system_u system_r kernel_t tcontext system_u object_r ipp_port_t tclass udp_socket
+bluetooth sdpd startup succeeded
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost maior teleson ro user webmaster
+kernel console ready
+kernel selinux initialized dev type ramfs uses genfs_contexts
+kernel mice ps mouse device common for all mice
+kernel selinux setting up existing superblocks
+login failed login from null for authentication failure
+kernel lowmem available
+gpm gpm startup succeeded
+kernel bios usable
+passwd pam_unix password changed for test
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl teksavvy com user test
+kernel audit avc denied setattr for pid exe usr bin rhgb name dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user fax
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost unknown sagonet net user root
+kernel out of memory killed process named
+kernel audit item name bin bash inode dev
+kernel grow_dev_page
+kernel audit avc denied noatsecure for pid exe bin bash scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass process
+sshd sshd term succeeded
+kernel ide assuming system bus speed for pio modes override with idebus xx
+rc starting hpoj succeeded
+kernel isapnp no plug play device found
+kernel uhci_hcd new usb bus registered assigned bus number
+init open dev pts no such file or directory
+kernel audit avc denied unlink for pid exe sbin minilogd name log dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass sock_file
+passwd pam_unix authentication failure logname test uid euid tty ruser rhost user test
+kernel audit avc denied read for pid exe sbin name exe dev ino scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass lnk_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost squid netcomputers ro user test
+kernel generic_file_aio_write
+privoxy jul privoxy info loading configuration file etc privoxy config
+kernel audit avc denied getattr for pid exe sbin lvm static path dev pts dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass dir
+kernel hda max request size
+kernel out of memory killed process python
+smartd device dev hda opened
+kernel md autodetecting raid arrays
+kernel audit item name proc sys kernel modprobe inode dev
+kernel kernel command line ro root label rhgb quiet
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost tisnet net tw user root
+ftpd connection from t ipconnect de at sat feb
+login pam_unix bad username
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost biblioteka wsi edu pl
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dsl pacbell net
+kernel audit item name proc sys net econet
+kernel bluetooth rfcomm ver
+named starting bind u named t var named chroot
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost hebragasse xdsl line inode at
+ftpd connection from at sat aug
+kernel using cfq io scheduler
+privoxy oct privoxy info loading configuration file etc privoxy config
+dd records out
+kernel serial driver revision ports irq sharing enabled
+kernel audit avc denied getattr for pid exe sbin sysctl path proc sys net ip_forward dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_net_t tclass file
+kernel agpgart agp aperture is
+kernel audit item name var lib nfs rpc_pipefs nfs inode dev
+ftpd connection from aml sfh adsl wanadoo nl at sun jul
+kernel selinux unregistering netfilter hooks
+login pam_unix authentication failure logname login uid euid tty ruser rhost user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail xmjl com user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost host addr tdcsong se user root
+kernel selinux initialized dev type bdev uses genfs_contexts
+kernel audit avc denied getattr for pid exe usr sbin kudzu path proc sys dev parport dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_dev_t tclass dir
+kernel audit avc denied getattr for pid exe sbin path proc stat dev ino scontext system_u system_r kernel_t tcontext user_u sysadm_r sysadm_t tclass file
+kernel audit avc denied relabelfrom for pid exe sbin restorecon name mtab dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass file
+ftpd connection from dsl arcor ip net at sun jul
+smartd smartd received signal terminated
+kernel audit avc denied read write for pid exe usr sbin sshd name dev ino scontext system_u system_r kernel_t tcontext root object_r devpts_t tclass chr_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost internetdsl tpnet pl
+kernel irq detected
+kernel audit avc denied read for pid exe usr sbin kudzu name hotplug dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_hotplug_t tclass file
+kernel audit syscall exit a items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+kernel __fput
+kernel audit syscall exit b b items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+kernel acpi disabled because your bios is from and too old
+ftpd connection from at sat jun
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user test
+sshd succeeded
+sshd pam_unix session closed for user root
+portmap portmap shutdown succeeded
+ftpd connection from at sun oct
+kernel audit avc denied getattr for pid exe bin bash path proc sys kernel modprobe dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_modprobe_t tclass file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost coldea teleson ro user guest
+kernel audit avc denied name_bind for pid exe usr sbin httpd scontext system_u system_r kernel_t tcontext system_u object_r http_port_t tclass tcp_socket
+kernel audit item name proc kmsg inode dev
+kernel inserting floppy driver for
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost in addr btopenworld com
+kernel audit item inode dev
+wall wall user test broadcasted lines chars
+login pam_unix check pass user unknown
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost yang nctu edu tw user nobody
+kernel audit avc denied relabelto for pid exe sbin restorecon name device mapper dev ino scontext system_u system_r kernel_t tcontext system_u object_r device_t tclass chr_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost alf zonepro serveurs net
+mysqld stopping mysql failed
+kernel hda timeout waiting for dma
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost data nhwsh tp edu tw user root
+kernel console colour vga
+named named startup succeeded
+kernel selinux initialized dev type hugetlbfs not configured for labeling
+xfs xfs shutdown failed
+kernel selinux initialized dev type sockfs uses task sids
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r telnet_port_t tclass tcp_socket
+kernel __mark_inode_dirty hex
+ftpd connection from rev gaoland net at fri feb
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost user postfix
+ftpd connection from maximumasp com at sat jul
+root root login on
+ftpd connection from club internet fr at thu sep
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost c il comcast net user test
+kernel audit avc denied mounton for pid exe bin mount path proc bus usb dev ino scontext system_u system_r kernel_t tcontext system_u object_r proc_t tclass dir
+kernel audit avc denied relabelfrom for pid exe sbin restorecon name ptal mlcd dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass dir
+kernel freeing initrd memory freed
+ftpd connection from getnet net at thu jan
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r amidxtape_port_t tclass tcp_socket
+rsyncd rsyncd version starting listening on port
+kernel pci invalid acpi pci irq routing table
+apmd apmd shutdown succeeded
+kernel audit avc denied siginh for pid exe bin bash scontext system_u system_r kernel_t tcontext root sysadm_r sysadm_t tclass process
+kernel out of memory killed process portmap
+kernel audit avc denied ioctl for pid exe usr sbin sshd path dev pts dev ino scontext system_u system_r kernel_t tcontext root object_r devpts_t tclass chr_file
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r fingerd_port_t tclass tcp_socket
+login failed login from null for root authentication failure
+ftpd connection from at sun feb
+kernel fs recovery complete
+kernel out of memory killed process crond
+crond crond startup succeeded
+kernel hub ports detected
+kernel microcode already at revision current
+xinetd xinetd startup succeeded
+kernel selinux completing initialization
+kernel audit avc denied compute_relabel for pid exe usr sbin sshd scontext system_u system_r kernel_t tcontext system_u object_r security_t tclass security
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dsl pacbell net user test
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost relic centrodedatos com
+ftpd connection from iis willowtec com at tue aug
+ftpd connection from at fri oct
+kernel normal zone pages lifo batch
+ftpd connection from at fri jan
+kernel audit item name initrd rhgb socket inode dev
+network setting network parameters succeeded
+kernel audit avc denied read for pid exe bin cat name bnumconfigurations dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysfs_t tclass file
+ftpd connection from lns vlq tou adsl proxad net at fri jun
+dd records in
+rpc statd version starting
+kernel hda sectors mb w cache chs udma
+htt_server started
+kernel bluetooth hci socket layer initialized
+kernel do_page_fault
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r amanda_port_t tclass udp_socket
+unix_chkpwd check pass user unknown
+kernel hda dma_timer_expiry dma status
+ftpd connection from at fri nov
+kernel audit avc denied setattr for pid exe sbin udev name device mapper dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass chr_file
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r biff_port_t tclass udp_socket
+kernel audit item name proc bus pci inode dev
+kernel audit avc denied check_context for pid exe sbin restorecon scontext system_u system_r kernel_t tcontext system_u object_r security_t tclass security
+ftpd connection from in addr btopenworld com at sat nov
+kernel audit avc denied ioctl for pid exe sbin arping path socket dev ino scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass packet_socket
+kernel audit avc denied create for pid exe sbin arping scontext system_u system_r kernel_t tcontext system_u system_r kernel_t tclass packet_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost nexg net user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost seed net tw
+portmap portmap startup succeeded
+kernel audit avc denied relabelto for pid exe sbin restorecon name ptal mlcd dev ino scontext system_u system_r kernel_t tcontext system_u object_r var_run_t tclass dir
+ftpd connection from mail nrms org at fri feb
+ftpd connection from arennes abo wanadoo fr at fri dec
+kernel pci tornado at vers
+rc starting readahead succeeded
+ftpd connection from at fri sep
+kernel hdc disabling u dma for samsung cd rom sn blacklisted
+kernel input_unregister_device hex
+privoxy dec privoxy info loading configuration file etc privoxy config
+kernel audit avc denied read for pid exe sbin iptables name modprobe dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_modprobe_t tclass file
+kernel agpgart maximum main memory to use for agp memory
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost static exatt net user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dsl sbcglobal net user test
+ftpd connection from dip t dialin net at wed jan
+ntpd synchronized to local stratum
+ftpd connection from neoplus adsl tpnet pl at sun feb
+kernel audit avc denied setattr for pid exe sbin syslogd name log dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass sock_file
+xinetd select reported ebadf but no bad file descriptors were found
+kernel audit avc denied unlink for pid exe usr bin gdm binary name gdmfifo dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass fifo_file
+ftpd user unknown timed out after seconds at wed sep
+sbin mingetty invalid character in login name
+kernel ich not native mode will probe irqs later
+kernel audit syscall exit fff items pid loginuid uid gid euid suid fsuid egid sgid fsgid
+kernel klogd log source proc kmsg started
+kernel d_alloc
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r inetd_port_t tclass udp_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl kk touchtelindia net user root
+named no longer listening on
+login failed login session from null for root authentication failure
+ftpd connection from at fri aug
+kernel __alloc_pages
+ftpd connection from cust telepacific net at sat dec
+sendmail sendmail shutdown succeeded
+ftpd connection from p pppool de at fri feb
+ftpd connection from actionhosting ca at sat feb
+ftpd connection from static nwrk east verizon net at tue sep
+gdm master rebooting
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost hebragasse xdsl line inode at user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost prtc net
+kernel capability lsm initialized
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ponteix ssd sk ca
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dynamic pool xxx fpt vn
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mailman ywso com user test
+snmpd snmpd startup succeeded
+kernel fs orphan cleanup on readonly fs
+kernel selinux initialized dev type selinuxfs uses genfs_contexts
+kernel audit avc denied read for pid exe sbin klogd name kmsg dev ino scontext system_u system_r kernel_t tcontext system_u object_r proc_kmsg_t tclass file
+ftpd connection from at sat jul
+kernel audit avc denied write for pid exe usr bin rhgb dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+kernel there is already a security framework initialized register_security failed
+gdm pam_unix bad username
+kernel audit item name etc ptal inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ctinets com user root
+kernel pci probing pci hardware
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost hinet ip hinet net user root
+kernel real time clock driver
+telnetd ttloop read connection reset by peer
+kernel reset success
+kernel vm killing process httpd
+kernel audit avc denied read write for pid exe sbin init name initctl dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass fifo_file
+ftpd anonymous ftp login from adsl skynet be sgpuser home com
+ftpd connection from at tue feb
+kernel __getblk_slow hex
+netfs mounting other filesystems succeeded
+kernel audit avc denied search for pid exe usr bin rhgb dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost static jcsn tn charter com
+kernel mount cache hash table entries order bytes
+ftpd connection from at sun jul
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost under kaist ac kr user root
+kernel selinux initializing
+logrotate alert exited abnormally with
+canna stopping canna server succeeded
+kernel audit avc denied write for pid exe sbin sysctl name hotplug dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_hotplug_t tclass file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost red staticip rima tde net user fax
+kernel security classes rules
+ftpd connection from alyon abo wanadoo fr at wed sep
+kernel read_swap_cache_async
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r biff_port_t tclass tcp_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost static tfn net tw user root
+kernel audit avc denied read for pid exe sbin lvm static dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass dir
+sshd pam_unix more authentication failures logname uid euid tty nodevssh ruser rhost ned gcdtech com user root
+kernel audit avc denied search for pid exe usr sbin kudzu name dev dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_dev_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost mail fullerproperties com user root
+smartd home page is http smartmontools sourceforge net
+kernel out of memory killed process diskcheck
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost www buller hoover fresno ca us user root
+kernel uhci_hcd uhci host controller
+kernel kernel command line ro root label rhgb quiet audit
+ftpd user unknown timed out after seconds at thu sep
+kernel audit item name proc sys net ip_forward inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost fastfood com pe user root
+kernel audit avc denied getattr for pid exe sbin restorecon name dev ino scontext system_u system_r kernel_t tcontext system_u object_r tty_device_t tclass chr_file
+kernel mtrr
+ftpd connection from mnpl dsl iowatelecom net at thu dec
+klogind authentication failed from software caused connection abort
+ftpd connection from systemsevolution com at wed sep
+kernel do_exit
+gpm info startup c
+kernel inode_update_time
+ftpd connection from pool mediaways net at mon oct
+gpm auto detected intellimouse ps
+rpc statd gethostbyname error for x x z z hn hn
+kernel audit avc denied unlink for pid exe bin rm name control dev ino scontext system_u system_r kernel_t tcontext system_u object_r file_t tclass chr_file
+mdmonitor mdadm succeeded
+ftpd connection from digi aube unet ocn ne jp at thu sep
+sendmail sm client shutdown failed
+kernel disabled privacy extensions on device lo
+kernel do_wp_page
+ftpd connection from bflony adelphia net at fri jun
+kernel audit avc denied name_bind for pid exe usr sbin named scontext system_u system_r kernel_t tcontext system_u object_r dns_port_t tclass tcp_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost internetdsl tpnet pl user root
+syslogd restart
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost pppzss shenzhen gd cn user nobody
+rshd connection from on illegal port
+kernel audit item name proc sys dev parport inode dev
+kernel do_swap_page
+kernel handle_mm_fault hex
+cups lpd unable to get command line from client
+kernel do_wp_page hex
+kernel enabling unmasked simd fpu exception support done
+kernel audit avc denied name_bind for pid exe usr sbin xinetd scontext system_u system_r kernel_t tcontext system_u object_r rsh_port_t tclass tcp_socket
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost knoxville xxpansion net user root
+kernel pci probing pci hardware bus
+kernel audit avc denied write for pid exe usr bin xorg path initrd log dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass file
+smartd device dev hda found in smartd database
+kernel out of memory killed process ld linux so
+kernel journal_start jbd
+atd atd shutdown succeeded
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost infiniconsys com user root
+kernel audit initializing netlink socket enabled
+kernel do_no_page
+kernel audit avc denied search for pid exe usr lib vte gnome pty helper dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass dir
+kernel hda status timeout status hex busy
+kernel on node totalpages
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost www shatura com
+kernel sys_rt_sigprocmask
+ftpd connection from khi dancom net pk at mon feb
+kernel audit avc denied unlink for pid exe usr bin rhgb name rhgb socket dev ino scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass sock_file
+kernel out of memory killed process sendmail
+ftpd connection from at mon feb
+kernel out of memory killed process rpc statd
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost massive merukuru org
+kernel filemap_nopage
+ftpd connection from afontenayssb abo wanadoo fr at thu jan
+ftpd connection from cpe houston res rr com at tue sep
+kernel audit avc denied setattr for pid exe usr lib vte gnome pty helper name dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass chr_file
+kernel audit avc denied noatsecure for pid exe bin bash scontext system_u system_r kernel_t tcontext root sysadm_r sysadm_t tclass process
+kernel cpu cache
+kernel fs orphan inodes deleted
+ftpd connection from dip t dialin net at fri oct
+gpm closing
+kernel printk
+ftpd connection from at wed jun
+sshd pam_unix session opened for user test by uid
+kernel do_page_cache_readahead
+kernel fs on internal journal
+ntpd kernel time sync disabled
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost dsl easynet nl user root
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost xdsl netcologne de user test
+mysqld starting mysql succeeded
+kernel audit avc denied relabelto for pid exe sbin restorecon name dev ino scontext system_u system_r kernel_t tcontext system_u object_r removable_device_t tclass blk_file
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost net
+ftpd connection from t ipconnect de at tue sep
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost americannetlink propagation net
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost cfp acm org
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost hinet ip hinet net
+kernel audit avc denied add_name for pid exe usr bin rhgb name rhgb socket scontext system_u system_r kernel_t tcontext system_u object_r ramfs_t tclass dir
+ftpd connection from at sat nov
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost de user root
+kernel kjournald starting commit interval seconds
+canna succeeded
+atd atd startup succeeded
+cups cupsd shutdown succeeded
+kernel audit avc denied write for pid exe sbin sysctl name ip_forward dev ino scontext system_u system_r kernel_t tcontext system_u object_r sysctl_net_t tclass file
+kernel audit item name var run ptal mlcd inode dev
+kernel do_acct_process
+kernel out of memory killed process sshd
+kernel selinux_register_security registering secondary module capability
+ntpd ntpd shutdown succeeded
+irqbalance irqbalance startup succeeded
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl dsl swbell net
+ftpd connection from t ipconnect de at tue jan
+kernel security scaffold initialized
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost virtua com br
+kernel vt_console_print
+kernel module_text_address
+fingerd client hung up probable port scan
+kernel audit avc denied getattr for pid exe usr lib vte gnome pty helper path dev pts dev ino scontext system_u system_r kernel_t tcontext system_u object_r devpts_t tclass chr_file
+xinetd no such internal service services stream disabling
+kernel do_sync_write
+syslog syslogd shutdown succeeded
+sendmail sendmail startup succeeded
+ftpd connection from at sat oct
+kernel fdc is a national semiconductor
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost pureserver info user root
+kernel audit avc denied write for pid exe usr bin xorg name dev ino scontext system_u system_r kernel_t tcontext system_u object_r proc_t tclass file
+httpd httpd shutdown succeeded
+kernel posix conformance testing by unifix
+kernel audit avc denied relabelto for pid exe sbin restorecon name mtab dev ino scontext system_u system_r kernel_t tcontext system_u object_r etc_runtime_t tclass file
+ftpd connection from host users bzimage us at fri feb
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ebix net tw
+kernel audit avc denied relabelto for pid exe sbin restorecon name ptal dev ino scontext system_u system_r kernel_t tcontext system_u object_r etc_t tclass dir
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost www njust edu cn user test
+ftpd connection from lns vlq tou adsl proxad net at sat jun
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost server novacero com user test
+kernel put_user_size
+kernel httpd page allocation failure order mode
+ftpd connection from www zajelgate net at sun jan
+kernel cpu intel pentium iii coppermine stepping
+kernel audit item name etc ld so cache inode dev
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost adsl ttn net user root
+rc stopping squid succeeded
+squid squid parent child process started
+kernel dump_stack
+sshd pam_unix authentication failure logname uid euid tty nodevssh ruser rhost ip intralot us user test
