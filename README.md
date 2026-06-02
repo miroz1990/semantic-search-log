@@ -187,7 +187,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 💼 Resume Value
+## 🛠️ Core Competencie
 
 This project demonstrates:
 
